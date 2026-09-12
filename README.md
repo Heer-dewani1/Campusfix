@@ -1,2 +1,3 @@
 # Campusfix
-this is my CCL ans SEA project
+this is my CCL and SEA project
+I am working with a team
